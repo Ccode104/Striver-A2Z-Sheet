@@ -53,6 +53,7 @@ This repository is created for **REVISION PURPOSES** and includes solutions to p
 | Missing Number         | [Solution](https://github.com/Ccode104/Striver-A2Z-Sheet/blob/main/Solve%20Problems%20Based%20on%20Arrays/Easy/Missing%20Number.cpp)                          | [Problem](https://leetcode.com/problems/missing-number/)| Leetcode | Not Available |
 | Maximum Consecutive Ones         | [Solution](https://github.com/Ccode104/Striver-A2Z-Sheet/blob/main/Solve%20Problems%20Based%20on%20Arrays/Easy/Maximum%20Consecutive%20Ones.cpp)                          | [Problem](https://leetcode.com/problems/max-consecutive-ones/)| Leetcode | Not Availbale |
 | Find the number that appears once, and other numbers twice.         | [Solution](https://github.com/Ccode104/Striver-A2Z-Sheet/blob/main/Solve%20Problems%20Based%20on%20Arrays/Easy/Single%20Number.cpp)                          | [Problem](https://leetcode.com/problems/single-number/)| Leetcode | Not Availbale |
+| Longest subarray with sum K (Positives + Negatives)         | [Solution](https://github.com/Ccode104/Striver-A2Z-Sheet/blob/main/Solve%20Problems%20Based%20on%20Arrays/Easy/Longest%20array%20with%20given%20sum%20-%20Integers.cpp)                          | [Problem](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=longest-sub-array-with-sum-k)| GFG | Not Availbale |
 
 
 
