@@ -10,7 +10,7 @@ Welcome to the **Striver A2Z Sheet Problems** repository! This README serves as 
 ---
 
 ## Important Note
-This repository is created for **revision purposes** and includes solutions to problems sourced from a Striver A2Z DSA sheet. These problems are **not original creations** and are solved to enhance understanding of Data Structures and Algorithms. The solutions are kept **simple**, with **minimalistic comments** to aid in quick review.
+This repository is created for **REVISION PURPOSES** and includes solutions to problems sourced from a Striver A2Z DSA sheet. These problems are **NOT ORIGINAL CREATIONS** and are solved to enhance understanding of Data Structures and Algorithms. The solutions are kept **simple**, with **minimalistic comments** to aid in quick review. Visit this [website](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) for the content made by original author.
 
 ---
 
