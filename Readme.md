@@ -2,17 +2,17 @@
 
 Welcome to the **Striver A2Z Sheet Problems** repository! This README serves as a searchable utility to find problems based on their names or problem statements.
 
-## How to Use
-1. Use the table of contents to navigate to a specific section.
-2. Search for a problem by its name or description using your browser's search functionality (e.g., `Ctrl + F` or `Cmd + F`).
-3. Click the link to view the solution in the repository or the problem on the coding platform.
-
 ---
 
 ## Important Note
 This repository is created for **REVISION PURPOSES** and includes solutions to problems sourced from a Striver A2Z DSA sheet. These problems are **NOT ORIGINAL CREATIONS** and are solved to enhance understanding of Data Structures and Algorithms. The solutions are kept **simple**, with **minimalistic comments** to aid in quick review. Visit this [website](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) for the content made by original author.
 
 ---
+
+## How to Use
+1. Use the table of contents to navigate to a specific section.
+2. Search for a problem by its name or description using your browser's search functionality (e.g., `Ctrl + F` or `Cmd + F`).
+3. Click the link to view the solution in the repository or the problem on the coding platform.
 
 ## Table of Contents
 - [Pattern Problems](#pattern-problems)
