@@ -41,11 +41,13 @@ public:
             }
 
             //Sorted array checked
+            
             return true;
         }
         else
         {
             //Array with all elements equal 
+            
             return true;
         }
     }
