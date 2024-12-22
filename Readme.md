@@ -51,6 +51,7 @@ This repository is created for **REVISION PURPOSES** and includes solutions to p
 | Linear Search         | [Solution](https://github.com/Ccode104/Striver-A2Z-Sheet/blob/main/Solve%20Problems%20Based%20on%20Arrays/Easy/Linear%20Search.cpp)                          | [Problem](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=who-will-win)| GFG | Not Available |
 | Find the Union         | [Solution](https://github.com/Ccode104/Striver-A2Z-Sheet/blob/main/Solve%20Problems%20Based%20on%20Arrays/Easy/Union%20of%20two%20arrays.cpp)                          | [Problem](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays)| GFG | Remove Duplicate and Merge |
 | Missing Number         | [Solution](https://github.com/Ccode104/Striver-A2Z-Sheet/blob/main/Solve%20Problems%20Based%20on%20Arrays/Easy/Missing%20Number.cpp)                          | [Problem](https://leetcode.com/problems/missing-number/)| Leetcode | Not Available |
+| Maximum Consecutive Ones         | [Solution](https://github.com/Ccode104/Striver-A2Z-Sheet/blob/main/Solve%20Problems%20Based%20on%20Arrays/Easy/Maximum%20Consecutive%20Ones.cpp)                          | [Problem](https://leetcode.com/problems/max-consecutive-ones/)| Leetcode | Not Availbale |
 
 
 
