@@ -1,11 +1,16 @@
 # Striver A2Z Sheet Problems  
 
-Welcome to the **Striver A2Z Sheet Problems** section of the DSA Practice repository! This README serves as a searchable utility to find problems based on their names or problem statements.
+Welcome to the **Striver A2Z Sheet Problems** repository! This README serves as a searchable utility to find problems based on their names or problem statements.
 
 ## How to Use
 1. Use the table of contents to navigate to a specific section.
 2. Search for a problem by its name or description using your browser's search functionality (e.g., `Ctrl + F` or `Cmd + F`).
 3. Click the link to view the solution in the repository or the problem on the coding platform.
+
+---
+
+## Important Note
+This repository is created for **revision purposes** and includes solutions to problems sourced from a Striver A2Z DSA sheet. These problems are **not original creations** and are solved to enhance understanding of Data Structures and Algorithms. The solutions are kept **simple**, with **minimalistic comments** to aid in quick review.
 
 ---
 
@@ -43,11 +48,6 @@ Welcome to the **Striver A2Z Sheet Problems** section of the DSA Practice reposi
 | Remove Duplicate         | [Solution](https://github.com/Ccode104/DSA-Practice/blob/master/A2Z/Solve%20Problems%20Based%20on%20Arrays/Easy/Remove%20Duplicates.cpp)                          | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| Leetcode | Not Available |
 | Rotate Array         | [Solution](https://github.com/Ccode104/DSA-Practice/blob/master/A2Z/Solve%20Problems%20Based%20on%20Arrays/Easy/Rotate%20Array.cpp)                          | [Problem](https://leetcode.com/problems/rotate-array/description/?source=submission-noac)| Leetcode | Remove Duplicate |
 | Move Zeroes         | [Solution](https://github.com/Ccode104/DSA-Practice/blob/master/A2Z/Solve%20Problems%20Based%20on%20Arrays/Easy/Move%20Zeroes.cpp)                          | [Problem](https://leetcode.com/problems/move-zeroes/)| Leetcode | Remove Duplicate |
-
----
-
-## Important Note
-This repository is created for **revision purposes** and includes solutions to problems sourced from a Striver A2Z DSA sheet. These problems are **not original creations** and are solved to enhance understanding of Data Structures and Algorithms. The solutions are kept **simple**, with **minimalistic comments** to aid in quick review.
 
 ---
 
