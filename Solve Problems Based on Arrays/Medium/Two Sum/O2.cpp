@@ -4,7 +4,7 @@ string read(int n, vector<int> book, int target)
     //Better approach
     //Use Hashing 
     //Search for target - book[i]
-    //Time Complexity is O(n)
+    //Time Complexity is O(n^2) - worst case for unordered map is O(n)
     //Space Complexity is O(n)
 
     unordered_map<int,int> index;
