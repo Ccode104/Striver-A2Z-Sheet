@@ -1,4 +1,4 @@
-#include<unordered_map>
+#include<map>
 string read(int n, vector<int> book, int target)
 {
     //Better approach
@@ -41,3 +41,7 @@ string read(int n, vector<int> book, int target)
 
     return ret_val;
 }
+
+//Map uses red black binary tree
+//Unordered map uses hash table
+//Know more : https://www.youtube.com/watch?v=KiB0vRi2wlc
