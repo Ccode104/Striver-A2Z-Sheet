@@ -3,6 +3,8 @@ string read(int n, vector<int> book, int target)
     // Write your code here.
 
     //Brute Force - Try all possible pairs
+    //Time Complexity is O(n^2)
+    //Space Complexity is O(1)
 
     //Do not repeat the same pair
 
