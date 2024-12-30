@@ -3,12 +3,12 @@
 # Striver A2Z Sheet Problems
 
 Welcome to the **Striver A2Z Sheet Problems** repository! 
-The solution codes here are very easy to read and understand , with special care taken to follow certain rules like *:*
+The solution codes here are very easy to read and understand , with special care taken to follow certain rules like ->
 1) *Meaningful names* of the variable
 2) No multiple *return* statements
 3) No *break* statement
 4) *Minimal use of shorthand* operators
-Note :  It is followed starting from arrays medium difficulty problems. It will be done for the other problems soon. 
+Note ->  It is followed starting from arrays medium difficulty problems. It will be done for the other problems soon. 
 This README serves as a searchable utility to find problems based on their names or problem statements.
 
 ---
