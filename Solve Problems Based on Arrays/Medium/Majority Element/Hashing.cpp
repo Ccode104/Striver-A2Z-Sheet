@@ -5,7 +5,7 @@ public:
         int n = nums.size();
 
         // We use Hashing to improve time
-        // Time complexity is O(n) - One pass
+        // Time complexity is O(n) + O(nlogn) - One pass
         // Space Complexity is O(n) - frequencies
 
         map<int,int> frequency;
