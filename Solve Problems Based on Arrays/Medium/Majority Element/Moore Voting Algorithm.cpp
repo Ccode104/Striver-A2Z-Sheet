@@ -5,6 +5,8 @@ public:
         int n =  nums.size();
 
         // We use Moore Voting Algorithm
+        // Time Complexity - O(n) - Single pass
+        // Space complexity is O(1)
 
         // We know that only one element can be the majority element
         // Also if we the frequency of majority element - of remaining ones is always positive (>0)
