@@ -17,7 +17,7 @@ public:
         {
             // Sub-array starts at index 'i'
 
-            for(int j=0;j<n;j++)
+            for(int j=i;j<n;j++)
             {
                 // Sub-array ends at index 'j'
 
@@ -26,8 +26,8 @@ public:
                 {
                     // Calculate the sum of nums[i..k]
                     sum = sum + nums[k];
-                    maximum_sum = max(sum,maximum_sum);
                 }
+                maximum_sum = max(sum,maximum_sum);
             }
         }
 
