@@ -2,7 +2,7 @@
 
 # Striver A2Z Sheet Problems
 
-Welcome to the **Striver A2Z Sheet Problems** repository! The solution codes here are very easy to read and understand , with special care taken to follow certain rules like :
+Welcome to the **Striver A2Z Sheet Problems** repository! The solution codes here are very easy to read and understand , with special care taken to follow certain rules like *:*
 1) **Meaningful names** of the variable
 2) No multiple **return** statements
 3) No **break** statement
