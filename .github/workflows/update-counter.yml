@@ -48,7 +48,7 @@ jobs:
 
               count = count_problems()
               with open('counter.txt', 'w') as f:
-              f.write(str(count)) "
+                  f.write(str(count)) "
     - name: Upload Counter
       uses: actions/upload-artifact@v3
       with:
