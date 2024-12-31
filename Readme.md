@@ -1,3 +1,5 @@
+![Problems Solved](https://img.shields.io/badge/Solved-0-informational)
+
 ---
 
 # Striver A2Z Sheet Problems
