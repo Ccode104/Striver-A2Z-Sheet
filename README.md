@@ -2,13 +2,14 @@
 
 ### Problems Solved Summary
 
-#### By Difficulty:
-- Easy: 9 problems
-- Medium: 1 problems
-- Easy      : 8 problems
-- Medium    : 5 problems
+#### By Difficulty
+- Easy 9 problems
+- Medium 1 problems
+- Easy       8 problems
+- Medium     5 problems
 
-#### By Section:
+#### By Section
+
 - Important Note
 This repository is created for **REVISION PURPOSES** and includes solutions to problems sourced from a Striver A2Z DSA sheet. These problems are **NOT ORIGINAL CREATIONS** and are solved to enhance understanding of Data Structures and Algorithms. The solutions are kept **simple**, with **minimalistic comments** to aid in quick review. Visit this [website](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) for the content made by the original author.
 
