@@ -18,38 +18,37 @@ jobs:
       id: count_problems
       run: |
         python -c "
-import re
+        import re
 
-def count_problems():
-    with open('README.md', 'r') as file:
-        content = file.read()
+        def count_problems():
+              with open('README.md', 'r') as file:
+                  content = file.read()
 
-    # Regex to match tables and count problems
-    table_pattern = re.compile(r'## (?P<section>.*?)\\n\\n\\|.*?\\|\\n\\|.*?\\|\\n(?P<rows>(\\|.*?\\|.*?\\|.*?\\|.*?\\|.*?\\|.*?\\|.*?\\|\\n)+)')
-    difficulty_pattern = re.compile(r'\\|.*?\\|.*?\\|.*?\\|.*?\\|.*?\\| (.*?) \\|.*?\\|')
+          # Regex to match tables and count problems
+              table_pattern = re.compile(r'## (?P<section>.*?)\\n\\n\\|.*?\\|\\n\\|.*?\\|\\n(?P<rows>(\\|.*?\\|.*?\\|.*?\\|.*?\\|.*?\\|.*?\\|.*?\\|\\n)+)')
+              difficulty_pattern = re.compile(r'\\|.*?\\|.*?\\|.*?\\|.*?\\|.*?\\| (.*?) \\|.*?\\|')
 
-    counters = {}
-    for match in table_pattern.finditer(content):
-        section = match.group('section')
-        rows = match.group('rows')
+              counters = {}
+              for match in table_pattern.finditer(content):
+                  section = match.group('section')
+                  rows = match.group('rows')
 
-        if section not in counters:
-            counters[section] = {}
+                  if section not in counters:
+                      counters[section] = {}
 
-        for row in rows.splitlines():
-            difficulty_match = difficulty_pattern.search(row)
-            if difficulty_match:
-                difficulty = difficulty_match.group(1).strip()
-                counters[section][difficulty] = counters[section].get(difficulty, 0) + 1
+                  for row in rows.splitlines():
+                      difficulty_match = difficulty_pattern.search(row)
+                      if difficulty_match:
+                          difficulty = difficulty_match.group(1).strip()
+                          counters[section][difficulty] = counters[section].get(difficulty, 0) + 1
 
-    total_count = sum(sum(d.values()) for d in counters.values())
-    print(total_count)
-    return total_count
+              total_count = sum(sum(d.values()) for d in counters.values())
+              print(total_count)
+              return total_count
 
-count = count_problems()
-with open('counter.txt', 'w') as f:
-    f.write(str(count))
-"
+              count = count_problems()
+              with open('counter.txt', 'w') as f:
+              f.write(str(count)) "
     - name: Upload Counter
       uses: actions/upload-artifact@v3
       with:
