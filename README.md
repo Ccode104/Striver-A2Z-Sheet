@@ -1,5 +1,36 @@
 ---
 
+### Problems Solved Summary
+
+#### By Difficulty:
+- Easy: 9 problems
+- Medium: 1 problems
+- Easy      : 8 problems
+- Medium    : 5 problems
+
+#### By Section:
+- Important Note
+This repository is created for **REVISION PURPOSES** and includes solutions to problems sourced from a Striver A2Z DSA sheet. These problems are **NOT ORIGINAL CREATIONS** and are solved to enhance understanding of Data Structures and Algorithms. The solutions are kept **simple**, with **minimalistic comments** to aid in quick review. Visit this [website](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) for the content made by the original author.
+
+---
+
+## How to Use
+1. Use the table of contents to navigate to a specific section.
+2. Search for a problem by its name or description using your browser's search functionality (e.g., `Ctrl + F` or `Cmd + F`).
+3. Click the link to view the solution in the repository or the problem on the coding platform.
+
+## Table of Contents
+- [Pattern Problems](#pattern-problems)
+- [Sorting Problems](#sorting-problems)
+- [Arrays](#arrays)
+
+---
+
+## Pattern Problems: 4 problems
+- Sorting Problems: 4 problems
+- Arrays: 15 problems
+
+
 # Striver A2Z Sheet Problems
 
 Welcome to the **Striver A2Z Sheet Problems** repository! <br>
