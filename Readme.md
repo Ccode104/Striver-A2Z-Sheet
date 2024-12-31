@@ -1,4 +1,4 @@
-![Problems Solved](https://img.shields.io/badge/Solved-`<counter>`-informational)
+
 
 
 ---
