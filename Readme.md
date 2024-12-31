@@ -1,4 +1,5 @@
-![Problems Solved](https://img.shields.io/badge/Solved-0-informational)
+![Problems Solved](https://img.shields.io/badge/Solved-`<counter>`-informational)
+
 
 ---
 
