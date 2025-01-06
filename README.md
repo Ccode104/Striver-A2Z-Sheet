@@ -23,6 +23,70 @@ This repository is created for **REVISION PURPOSES** and includes solutions to p
 2. Search for a problem by its name or description using your browser's search functionality (e.g., `Ctrl + F` or `Cmd + F`).
 3. Click the link to view the solution in the repository or the problem on the coding platform.
 
+## Directory Sructure ->
+Directory structure:
+└── Ccode104-Striver-A2Z-Sheet/
+    ├── README.md
+    ├── Counter.py
+    ├── counter.txt
+    ├── Learn Important Sorting Techniques/
+    │   ├── Sorting-I/
+    │   │   ├── Bubble Sort.cpp
+    │   │   ├── Insertion Sort.cpp
+    │   │   └── Selection Sort.cpp
+    │   └── Sorting-II/
+    │       ├── Merge Sort.cpp
+    │       └── Quicksort.cpp
+    ├── Pattern based problems/
+    │   ├── N by 2-Forest.cpp
+    │   ├── N-Forest.cpp
+    │   ├── N-Triangles.cpp
+    │   ├── Reverse Star Triangle.cpp
+    │   ├── Reverse number triangle.cpp
+    │   ├── Seeding.cpp
+    │   ├── Star Diamond.cpp
+    │   ├── Star Triangle.cpp
+    │   └── Triangle.cpp
+    ├── Solve Problems Based on Arrays/
+    │   ├── Easy/
+    │   │   ├── Check if the array is sorted.cpp
+    │   │   ├── Largest Element in Array.cpp
+    │   │   ├── Linear Search.cpp
+    │   │   ├── Longest array with given sum - Integers.cpp
+    │   │   ├── Maximum Consecutive Ones.cpp
+    │   │   ├── Missing Number.cpp
+    │   │   ├── Move Zeroes.cpp
+    │   │   ├── Remove Duplicates.cpp
+    │   │   ├── Rotate Array.cpp
+    │   │   ├── Second Largest.cpp
+    │   │   ├── Single Number.cpp
+    │   │   └── Union of two arrays.cpp
+    │   └── Medium/
+    │       ├── Majority Element/
+    │       │   ├── Frequency of all elements.cpp
+    │       │   ├── Hashing.cpp
+    │       │   └── Moore Voting Algorithm.cpp
+    │       ├── Maximum Sum Subarray/
+    │       │   ├── All possible subarrays.cpp
+    │       │   ├── Better approach.cpp
+    │       │   └── Kadane Algorithm.cpp
+    │       ├── Print Maximum Subarray/
+    │       │   └── Modified Kadane.cpp
+    │       ├── Sort 0s 1s 2s/
+    │       │   ├── 3-Pointer.cpp
+    │       │   ├── Count.cpp
+    │       │   └── Sort.cpp
+    │       └── Two Sum/
+    │           ├── All possible pairs - Yes-No.cpp
+    │           ├── Hashing - Map - Index Pair.cpp
+    │           ├── Hashing - Map - Yes|No.cpp
+    │           ├── Two Pointers - Index pair.cpp
+    │           ├── Two pointers - Yes|No.cpp
+    │           └── Unordered Map - Yes|No.cpp
+    └── .github/
+        └── workflows/
+            └── update-counter.yml
+
 ## Table of Contents
 - [Pattern Problems](#pattern-problems)
 - [Sorting Problems](#sorting-problems)
